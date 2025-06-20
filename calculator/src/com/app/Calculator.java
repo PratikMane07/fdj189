@@ -4,7 +4,7 @@ public class Calculator {
 	
 	public void addition()
 	{
-		System.out.println("this is addition method");
+		System.out.println("addition => called");
 	}
 
 }
