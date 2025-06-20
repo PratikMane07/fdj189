@@ -11,5 +11,10 @@ public class Calculator {
 	{
 		
 	}
+	
+	public void mult()
+	{
+		
+	}
 
 }
