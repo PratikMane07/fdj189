@@ -17,4 +17,9 @@ public class Calculator {
 		
 	}
 
+	public void div()
+	{
+		
+	}
+
 }
