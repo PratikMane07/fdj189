@@ -7,4 +7,9 @@ public class Calculator {
 		System.out.println("addition => called");
 	}
 
+	public void sub()
+	{
+		
+	}
+
 }
