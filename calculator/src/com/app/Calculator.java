@@ -23,6 +23,13 @@ public class Calculator {
 	}
 	
 	
+	public String addStudentData()
+	{
+		
+	   return null;
+		
+	}
+	
 	
 	
 	
