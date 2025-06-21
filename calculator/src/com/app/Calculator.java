@@ -22,10 +22,7 @@ public class Calculator {
 		
 	}
 	
-	public void addEmployee()
-	{
-		
-	}
+	
 	
 
 }
